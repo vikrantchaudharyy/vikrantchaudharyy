@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikrantchaudharyy
 - 👀 I Love Python, C++, Linux && Music
-- 🌱 I’m currently learning Design patterns
+- 🌱 I’m currently learning Design patterns, Golang, protobuff, gRPC, Microservices
 
 
 ## 📫 How to reach me: 
